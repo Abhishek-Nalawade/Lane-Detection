@@ -9,3 +9,4 @@ https://drive.google.com/drive/folders/1uluxdZHJIrGJ79Jl3i9ju0-ED5MRXTjr?usp=sha
 ## Libraries Required
 * Numpy
 * OpenCV
+* Matplotlib
