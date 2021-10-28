@@ -27,6 +27,10 @@ The warped image is masked to obtain the lane candidates in the frame
   <img src ="Output/Masked%202.PNG" width ="100">
 </p>
 
+Column wise Histogram that show in which columns we have the candidate lanes
+
+<img src ="Output/Histogram.png" width = "400">
+
 ## Intructions
 1) Please ensure to download the required video files first before running the code.
 
